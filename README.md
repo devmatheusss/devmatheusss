@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NestJS, NextJS, NodeJS and DevOps**
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://devmatheus.vercel.app)
+- 👨‍💻 All of my projects are available in my [portfolio](https://theavelino.dev)
 
 - 💬 Ask me about **NextJS, JavaScript and TypeScript**
 
